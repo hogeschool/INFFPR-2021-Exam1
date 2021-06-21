@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UKsaI78T/KMfefDnZk+t4s76or8pe07AuXziM70vd671Ta5rGU9nH1nsdRI1SA6N6uTM82pa1EM7XQb9JOTpNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fdigi\\Documents\\GitHub\\Exam-and-practicum-solutions-for-teachers\\Development - 8\\2020-21\\Exam\\Exam.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fdigi\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
